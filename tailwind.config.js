@@ -12,7 +12,7 @@ module.exports = {
         'veryLightGray':'hsl(0, 0%, 98%)',
       },
       fontFamily:{
-        Vietnam: ['Be Vietnam Pro', 'sans-serif']
+        Vietnam: ['Be Vietnam Pro']
       }
     },
   },
