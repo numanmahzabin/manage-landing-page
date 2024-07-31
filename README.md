@@ -33,9 +33,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile view](./design/mobile_full_page.png) 
-![Desktop view](./design/desktop_full.png) 
-
+![Mobile view](./design/mobile_full_page.png)
+![Desktop view](./design/desktop_full.png)
 
 ### Links
 
@@ -43,6 +42,7 @@ Users should be able to:
 - Live Site URL: https://numanmahzabin.github.io/manage-landing-page/
 
 ## My process
+
 This project is a part of my Tailwind CSS learning. I was studying Tailwind CSS and to practice it, I designed this site
 
 ### Built with
@@ -55,7 +55,7 @@ This project is a part of my Tailwind CSS learning. I was studying Tailwind CSS 
 
 ### What I learned
 
-This is my first project in Tailwind CSS. I learned to make responsive and most importantly Mobile-first workflow. I learned to add custom fonts, colors in Tailwind. 
+This is my first project in Tailwind CSS. I learned to make responsive and most importantly Mobile-first workflow. I learned to add custom fonts, colors in Tailwind.
 
 Though I haven't learnt making slide bar with Tailwind. Therefore, I couldn't add the Slide bar in testimonial part. I'll, when I have this in hands.
 
@@ -67,7 +67,7 @@ I would like focus on making mobile menu bar with raw Javascript. As Tailwind do
 
 - https://tailwindcss.com/ - I was learning Tailwind CSS and the entire design was made with Tailwind
 - https://fonts.google.com/ - I used 'Be Vietnam Pro' font from this site. Also I used the menu icon from the google icons.
-- https://github.com/ - I deployed my site here. 
+- https://github.com/ - I deployed my site here.
 
 ## Author
 
